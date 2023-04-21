@@ -1,7 +1,7 @@
 /*
 ‼️规则完全免费，仅供学习交流，🈲️商业用途 by 你有胸我有弟
 ^ [rewrite_local]
-^https:\/\/api\.gugpt\.com\/api\/user\/info\.api url script-response-body NeoAIceshi.js
+^https:\/\/api\.gugpt\.com\/api\/user\/info\.api url script-response-body https://raw.githubusercontent.com/titlark/ios-scripts/main/qx/NeoAI.js
 [mitm] 
 hostname = api.gugpt.com
 */
