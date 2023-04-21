@@ -2,7 +2,7 @@
 ‼️规则完全免费，仅供学习交流，🈲️商业用途 by 你有胸我有弟
 
 [rewrite_local]
-https:\/\/api\.revenuecat\.com\/v1\/subscribers\/cIrlSOwSOi-n-PD3j6DEh_EY url script-response-body GoodChatBot.js
+https:\/\/api\.revenuecat\.com\/v1\/subscribers\/cIrlSOwSOi-n-PD3j6DEh_EY url script-response-body https://raw.githubusercontent.com/titlark/ios-scripts/main/qx/GoodChatBot.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
